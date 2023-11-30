@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aiesha</h1>
 <h3 align="center">An aspiring frontend developer from the UK.</h3>
 
-- 🌱 I’m currently learning **Bootstrap, JavaScript, and React**
+- 🌱 I’m currently learning **JavaScript, and React**
 
 - 📫 How to reach me **aieshadixon.com@gmail.com**
 
